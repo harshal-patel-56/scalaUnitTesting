@@ -1,0 +1,5 @@
+# Excluding the .idea folder of IntelliJ
+.idea
+
+# Excluding the .iml file of IntelliJ
+scalaUnitTesting.iml
