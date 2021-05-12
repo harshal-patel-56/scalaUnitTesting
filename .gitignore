@@ -3,3 +3,6 @@
 
 # Excluding the .iml file of IntelliJ
 scalaUnitTesting.iml
+
+# Excluding the target folder used for build
+target
